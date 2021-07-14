@@ -16,9 +16,9 @@ README.md
 
 a. Overview Document detailing repository contents
 
-Data
+Tweet.csv
 
-a. All data used in project
+a. CSV file for project
 
 Scripts
 
